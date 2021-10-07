@@ -1,0 +1,15 @@
+body { margin: 0; text-align: center; }
+header { background-color: navy; color: white; padding: 10px; margin-bottom: 50px; }
+aside, main { display: inline-block; vertical-align: top; }
+aside { width: 300px; background-color: silver; padding: 15px; }
+nav { margin-top: 15px; }
+nav button { width: 100%; padding: 5px; cursor: pointer; }
+main { min-width: 300px; }
+main h3 img { vertical-align: middle; }
+.uviSeverity { padding: 5px; display: inline-block; }
+.low { background-color: green; color: white; }
+.moderate { background-color: yellow; }
+.high { background-color: orange; }
+.veryHigh { background-color: red; color: white; }
+.extreme { background-color: purple; color: white; }
+main div { display: inline-block; padding: 10px; border-radius: 15px; background-color: darkcyan; margin: 5px; }
