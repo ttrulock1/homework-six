@@ -8,5 +8,5 @@ Furthermore, application user experience is intuitive and easy to navigate. Appl
 
 Repository has a unique name. Repository follows best practices for file structure and naming conventions. Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. Repository contains multiple descriptive commit messages. Repository contains quality readme file with description, screenshot, and link to deployed application.
 
-I submitted both of these: The URL of the functional, deployed application, and the URL of the GitHub repository. Finally, the repository contain a unique name and includes a readme describing the project, which is this document.
+I submitted both of these: The URL of the functional, deployed application, and the URL of the GitHub repository. Finally, the repository contain a unique name and includes a readme describing the project, which is this document. I am resolving an issue right now.
 
